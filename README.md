@@ -2,10 +2,10 @@
 
 * 👩‍💻 I have keen interest in frontend Web Development.
 
-*✍🏼I’m currently learning React
+* ✍🏼I’m currently learning React
 
-*👀 I’m looking to collaborate on projects involving my skill sets (HTML, CSS, BOOTSTRAP, JAVASCRIPT)
+* 👀 I’m looking to collaborate on projects involving my skill sets (HTML, CSS, BOOTSTRAP, JAVASCRIPT)
 
-*🌴 Sharing My Journey on Twitter and also documenting on Instagram @tecbabz.
+* 🌴 Sharing My Journey on Twitter and also documenting on Instagram @tecbabz.
 
-*📫 How to reach me balogundamilaree@gmail.com
+* 📫 How to reach me balogundamilaree@gmail.com
