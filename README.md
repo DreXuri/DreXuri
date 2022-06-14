@@ -1,6 +1,6 @@
-*👋🏼 Hi, I’m DreXuri.
+* 👋🏼 Hi, I’m DreXuri.
 
-*👩‍💻 I have keen interest in frontend Web Development.
+* 👩‍💻 I have keen interest in frontend Web Development.
 
 *✍🏼I’m currently learning React
 
