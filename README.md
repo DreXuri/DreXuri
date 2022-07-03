@@ -4,8 +4,8 @@
 
 * ✍🏼I’m currently learning React
 
-* 👀 I’m looking to collaborate on projects involving my skill sets (HTML, CSS, BOOTSTRAP, JAVASCRIPT)
+* 👀 I’m looking to collaborate on projects involving my skill sets (HTML, CSS, BOOTSTRAP, JAVASCRIPT, REACT, ANGULAR)
 
-* 🌴 Sharing My Journey on Twitter and also documenting on Instagram @tecbabz.
+* 🌴 Sharing My Journey on Twitter and also documenting on Instagram @DreClarion.
 
 * 📫 How to reach me balogundamilaree@gmail.com
