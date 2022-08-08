@@ -4,7 +4,7 @@
 
 * ✍🏼I’m currently learning Flutter
 
-* 👀 I’m looking to collaborate on projects involving my skill sets (HTML, CSS, BOOTSTRAP, JAVASCRIPT, REACT, ANGULAR)
+* 👀 I’m looking to collaborate on projects involving my skill sets (HTML, CSS, BOOTSTRAP, JAVASCRIPT, REACT, ANGULAR, FLUTTER)
 
 * 🌴 Sharing My Journey on Twitter and also documenting on Instagram @DreClarion.
 
