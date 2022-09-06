@@ -2,7 +2,7 @@
 
 * 👩‍💻 I have keen interest in frontend Web Development.
 
-* ✍🏼I’m currently learning Flutter
+* ✍🏼I’m Current Slack Flutter
 
 * 👀 I’m looking to collaborate on projects involving my skill sets (HTML, CSS, BOOTSTRAP, JAVASCRIPT, REACT, ANGULAR, FLUTTER)
 
