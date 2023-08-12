@@ -2,14 +2,10 @@
 
 <h1 align="center">Hi 👋, I'm Emmanuel Balogun</h1>
 <h3 align="center">A passionate mobile developer, I possess a deep understanding of designing and developing mobile applications, with a focus on the finer details. My skillset encompasses Flutter and UI/UX principles, which enable me to create elegant and user-friendly solutions from complex requirements.</h3>
-
 <img align="right" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=drexuri&label=Profile%20views&color=0e75b6&style=flat" alt="drexuri" /> </p>
 
-[<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=drexuri" alt="drexuri" /></a> </p>](https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gi)
-
-- 🔭 I’m currently working on [Scudo app and byte app](https://play.google.com/store/apps/details?id=com.scudo.app   and  https://play.google.com/store/apps/details?id=com.gistabyte.byteBusiness&pli=1)
+- 🔭 I’m currently working on [Scudo app](https://play.google.com/store/apps/details?id=com.scudo.app  )
 
 - 🌱 I’m currently learning **Flutter, ReactJs and NodeJs**
 
