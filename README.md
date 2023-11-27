@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Scudo app](https://play.google.com/store/apps/details?id=com.scudo.app  )
 
-- 🌱 I’m currently learning **Flutter, ReactJs and NodeJs**
+- 🌱 My current  **Flutter, ReactJs and NodeJs**
 
 - 📝 I regularly write articles on [https://medium.com/@balogundamilaree](https://medium.com/@balogundamilaree)
 
